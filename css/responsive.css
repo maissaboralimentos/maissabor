@@ -9,7 +9,7 @@
   transition: all 0.8s ease-in-out;
 }
 /*------------------------------------------------------------------------------*/
-/*                    width : 1200px 
+/*                    width : 1200px
 /*------------------------------------------------------------------------------*/
 @media (min-width: 1200px) {
   /* boxed styles */
@@ -26,7 +26,7 @@
   }
 }
 /*------------------------------------------------------------------------------*/
-/*                    width : 992px 
+/*                    width : 992px
 /*------------------------------------------------------------------------------*/
 @media (min-width: 992px) and (max-width: 1199px) {
   .slider-home.slider .slide {
@@ -149,7 +149,7 @@
   }
 }
 /*------------------------------------------------------------------------------*/
-/*                    width : 768px 
+/*                    width : 768px
 /*------------------------------------------------------------------------------*/
 @media (min-width: 768px) and (max-width: 991px) {
   .slider-home.slider .slide {
@@ -630,10 +630,10 @@
   .custom-slider .slide {
     height: auto !important;
   }
-  .header-slider .slide {
+  .home-slider .slide, .header-slider .slide {
     height: 367px !important;
   }
-  .header-slider .slide img {
+  .home-slider .slide img, .header-slider .slide img {
     height: 100%;
   }
   .slider-2 .owl-controls .owl-nav,
@@ -966,10 +966,10 @@
   .slider-4 .owl-controls .owl-nav {
     margin-bottom: -20px;
   }
-  .header-slider .slide {
+  .home-slider .slide, .header-slider .slide {
     height: 228px !important;
   }
-  .header-slider .slide img {
+  .home-slider .slide img, .header-slider .slide img {
     height: 100%;
   }
   .slider-shortcodes .slide .captions {
@@ -1338,10 +1338,10 @@
   .slider .owl-controls {
     display: none;
   }
-  .header-slider .slide {
+  .home-slider .slide, .header-slider .slide {
     height: 151px !important;
   }
-  .header-slider .slide img {
+  .home-slider .slide img, .header-slider .slide img {
     height: 100%;
   }
   .breadcrumb {
