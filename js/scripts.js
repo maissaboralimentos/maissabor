@@ -474,6 +474,4 @@ This file includes all cusomized javascript and all plugins libraries options
     jQuery(this).stop().animate({marginTop: '0'}, 2000);
   });
 
-
-
 })();//end of use strict

@@ -4256,6 +4256,14 @@ body {
   16- Pages Styles
 
   =============================================================================*/
+/* Home Slider */
+.home-slider .owl-controls {
+  display: none;
+}
+.home-slider .slide {
+  height: 600px !important;
+}
+
 /* Header Slider */
 .header-slider .owl-controls {
   display: none;
